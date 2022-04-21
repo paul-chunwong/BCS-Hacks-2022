@@ -7,3 +7,6 @@ Along with my teammates Adwait Kulkarni, Yining Song, Yuxuan Wang, we built a we
 Needless to say, it was extremely fun to lay down the blueprint of the website as well as for deciding the best approach to improve user interaction, all within 10 hours!
 
 Looking forward to participating in similar in-person events in the future!
+
+TRY IT:
+https://paul-chunwong.github.io/BCS-Hacks-2022/index.html
